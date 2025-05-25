@@ -1,3 +1,3 @@
 # Joao Victor 
 
-UwU Minha brench funcional aqui >~< 
+Minha branch funcional aqui
